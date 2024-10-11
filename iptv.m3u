@@ -87,6 +87,8 @@ https://stream.e2is.in/hls/paharitarangtv.m3u8
 https://mhlive.paramountinfosystem.com/mhonedilse/098f6bcd4621d373cade4e832627b4f6.sdp/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Abc Comedy.jpg",Abc Comedy
 http://shreeshyamtv.in:5080/AbcNetworak/streams/712007698025511838293801.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Abc Comedy.jpg",Abc Picture
+http://shreeshyamtv.in:5080/AbcNetworak/streams/407582776606200792863316.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/5.jpg",Bollywood Clasic
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/6.jpg",Bollywood Prime
