@@ -97,7 +97,7 @@ https://mhlive.paramountinfosystem.com/mhonedilse/098f6bcd4621d373cade4e832627b4
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Oye Music.jpg", Oye Music
 http://167.86.109.254:1937/OyeMusic/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Haranvi Hits.jpg", Haranvi Hits
-https://yuppnimresmum.akamaized.net/28072023/smil:haryanvihits.smil/hdntl=exp=1729430094~acl=%2f*~data=hdntl~hmac=556160d784cbda0780dcec2c9bc622bfb406169d76d824de785a49d33326b768/chunklist_b2628000.m3u8
+http://146.59.253.52:8080/haryanvi_hitstv/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Abc Comedy.jpg",Abc Comedy
 http://shreeshyamtv.in:5080/AbcNetworak/streams/712007698025511838293801.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/ABC Digital.jpg",Abc Picture
