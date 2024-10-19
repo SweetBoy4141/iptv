@@ -163,6 +163,8 @@ https://chardikalatimestv.gigabitcdn.net/in-chardikala/chardikala-gurbani-tv/tra
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/garv-punjab-gurbani/bfbb1cd9-bfdc-41db-a24d-9210d28f4ceb/0.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/vision punjab gurbani 020.jpg", Visin Punjab Gurbani
 http://a-edge.bliscdn.com/Visionpunjabgurbani/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Amrit Gurbani.jpg", Amrit Gurbani
+http://103.177.40.35/hls/stream0.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Nihal Tv  ( Nanaksar ) 034.jpg", Nihal Tv ( Nanaksar Kaleran )
 https://main.clickstreamcdn.com/sp/mr-singh/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Sikh Ratnavali.jpg", Sikh Ratnavali
