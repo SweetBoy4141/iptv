@@ -17,6 +17,8 @@ https://stream.e2is.in/hls/indoztv.m3u8
 https://stream.e2is.in/hls/Yeshuaatv.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Gubbare 029.jpg", Gubbare
 https://epiconvh.s.llnwi.net/gubbare/master_720.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Chumbak.jpg", Chumbak
+https://cdn.live.shemaroome.com/shemarooChumbakTV/smil:shemarooChumbakTVadp.smil/chunklist_b1628000_sleng.m3u8?hdnts=st%3D1729336754%7Eexp%3D1729347554%7Eacl%3D*%7Edata%3Dtestdata%7Ehmac%3D41e0f18fca7f62fde397cd6e88f80a092a35b297c7ca7256e732f772595280d4
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Kids Tv 033.jpg", Kids Tv Channel
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kids-tv-india-nursery-rhymes-and-baby-songs/977c142e-156e-44b2-9140-a50b8e80a6a6/2.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Food_Food-002.jpg",Food Food
