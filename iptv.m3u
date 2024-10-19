@@ -124,8 +124,7 @@ https://z5ak-cmaflive.zee5.com/cmaf/live/2105171/ZeeGangaELE/master_576P.m3u8?hd
 https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/The Movie Club.jpg", The Movie Club
 https://cc-jytb1qhmgqh5a.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jytb1qhmgqh5a/2cd8476b-fc19-4782-924f-0f9bd62252c6/3.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/South Statino.jpg", South Statino
-https://cdn.live.shemaroome.com/shemarooChumbakTV/smil:shemarooChumbakTVadp.smil/chunklist_b1628000_sleng.m3u8?hdnts=st%3D1729336754%7Eexp%3D1729347554%7Eacl%3D*%7Edata%3Dtestdata%7Ehmac%3D41e0f18fca7f62fde397cd6e88f80a092a35b297c7ca7256e732f772595280d4
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Bollywood 4u.jpg", Local 
 https://dbrb49pjoymg4.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/7be04f99-5bf2-430b-86dd-4e1577159f1b/4.m3u8
