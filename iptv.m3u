@@ -118,8 +118,7 @@ https://cdn2.pishow.tv/live/156/156_0.m3u8
 https://cdn2.pishow.tv/live/140/140_0.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Movie-Plus.jpg", Movie Plus
 https://cdn1.pishow.tv/live/222/222_0.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Zee Anmol Cinema 2.jpg", Zee Anmol Cinema 2
-https://z5ak-cmaflive.zee5.com/cmaf/live/2105171/ZeeGangaELE/master_576P.m3u8?hdntl=exp=1729428910~acl=%2f*~data=hdntl~hmac=50e8387bc36199d757b5be59cbddaa1e8be69c582bfadee2c2920b6a1b19013c
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Shemaroo Bollywood 012.jpg", Shemaroo Bollywood
 https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/The Movie Club.jpg", The Movie Club
