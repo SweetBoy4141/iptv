@@ -134,6 +134,8 @@ https://cdn2.pishow.tv/live/140/140_0.m3u8
 https://cdn1.pishow.tv/live/222/222_0.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Zee Anmal Cinema.jpg", Zee Anmal Cinema
 http://172.105.123.238:18002/play/a01f
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Zee Anmol Cinema 2.jpg", Zee Anmol Cinema 2
+http://172.105.123.238:18002/play/a024
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Shemaroo Bollywood 012.jpg", Shemaroo Bollywood
 https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/The Movie Club.jpg", The Movie Club
