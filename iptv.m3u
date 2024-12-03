@@ -105,10 +105,14 @@ https://stream.e2is.in/hls/aminews.m3u8
 https://stream.e2is.in/hls/paharitarangtv.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Mh1.jpg",Mh1
 https://mhlive.paramountinfosystem.com/mhonedilse/098f6bcd4621d373cade4e832627b4f6.sdp/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/133333.jpg", GOLDMINE 
+http://103.156.169.82:8000/play/a01d/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/12222.jpg", GOLDMINE MOVIES
 http://103.156.169.82:8000/play/a01c/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/133333.jpg", GOLDMINE BOLLYWOOD
 http://103.156.169.82:8000/play/a011/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/223366.jpg", SOUTH CINEMA
+http://103.156.169.82:8000/play/a00f/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Oye Music.jpg", Oye Music
 http://167.86.109.254:1937/OyeMusic/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Haranvi Hits.jpg", Haranvi Hits
