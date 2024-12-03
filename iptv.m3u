@@ -99,6 +99,10 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9Xjhakaas/default/9Xjhakaas-audio_2
 https://livecdn.live247stream.com/joomusic/tv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Mh-one.jpg", Mh1
 https://mhlive.paramountinfosystem.com/mhonemusictest/d0dbe915091d400bd8ee7f27f0791303.sdp/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Oye Music.jpg", Oye Music
+http://167.86.109.254:1937/OyeMusic/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Haranvi Hits.jpg", Haranvi Hits
+http://146.59.253.52:8080/haryanvi_hitstv/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Himachali Hits.jpg", Himachali Hits
 https://stream.e2is.in/hls/aminews.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/PHARI-TARANG.jpg", Him Tarang
@@ -113,10 +117,6 @@ http://103.156.169.82:8000/play/a01c/index.m3u8
 http://103.156.169.82:8000/play/a011/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/223366.jpg", SOUTH CINEMA
 http://103.156.169.82:8000/play/a00f/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Oye Music.jpg", Oye Music
-http://167.86.109.254:1937/OyeMusic/myStream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Haranvi Hits.jpg", Haranvi Hits
-http://146.59.253.52:8080/haryanvi_hitstv/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/ABC Digital.jpg",ABC Premier
 http://103.156.169.82:8000/play/a02t/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/ABC Digital.jpg",ABC Premier
