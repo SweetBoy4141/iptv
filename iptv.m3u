@@ -85,6 +85,8 @@ https://mcncdndigital.com/balleballetv/tracks-v1a1/mono.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/punjabi-hits/08957dea-11d9-4ac8-a3d1-07c24f7b3c6f/0.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Punjabi Beats 017.jpg", Punjabi Beats
 http://146.59.253.52:8080/punjabihitshd/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/NATIONAL TIMES.jpg", NATIONAL TIMES
+https://stream.e2is.in/hls/PPNationalTime.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Only Music 021.jpg", Only Music
 https://livestream.unlimitedcdn.com/onlymusic/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Saga Music.jpg", Saga Music
