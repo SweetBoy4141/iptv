@@ -14,7 +14,7 @@ https://stream.e2is.in/hls/livestream.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Indoo z tv 004.jpg",Indooz tv
 https://cdn2.in/IndozeTvhls/live.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/4.jpg",Yeshuaa tv
-http://stream.e2is.in/hls/Yeshuaatv.m3u8
+https://cdn2.in/YeshuaaTVhls/live.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Gubbare 029.jpg", Gubbare
 https://epiconvh.s.llnwi.net/gubbare/master_720.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Kids Tv 033.jpg", Kids Tv Channel
