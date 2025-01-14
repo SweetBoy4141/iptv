@@ -112,7 +112,7 @@ http://146.59.253.52:8080/haryanvi_hitstv/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Himachali Hits.jpg", Himachali Hits
 https://cdn2.in/HimachaliHitshls/live.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/PHARI-TARANG.jpg", Him Tarang
-https://stream.e2is.in/hls/paharitarangtv.m3u8
+https://cdn2.in/PhariTranghls/live.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Mh1.jpg",Mh1
 https://mhlive.paramountinfosystem.com/mhonedilse/098f6bcd4621d373cade4e832627b4f6.sdp/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/133333.jpg", GOLDMINE 
