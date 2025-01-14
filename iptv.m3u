@@ -151,6 +151,8 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 http://103.156.169.82:8000/play/a00y/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/B4u Movies.jpg", B4u Movies
 https://cdn2.pishow.tv/live/156/156_0.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/RDC Movies.jpg", RDC Movies
+https://janya-rdcmovies.akamaized.net/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/230a723f-867d-4fa3-b2d2-a622ba994cd2/78f69f18-8592-4cca-8928-be2c4aa5bae5/2.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Wow Cinema.jpg", Wow Cinema
 https://cloudcdn.in/skymedia/punjabiadda/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Movie-Plus.jpg", Movie Plus
