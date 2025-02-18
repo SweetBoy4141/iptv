@@ -101,6 +101,8 @@ https://live.ottlive.co.in/globaldesi/globaldesi/tracks-v1a1/mono.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/saga-music/0e8d537c-de4e-4151-827f-198c5e9703fb/1.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Visin Punjab Music 019.jpg", Visin Punjab Music
 http://a-edge.bliscdn.com/Visionpunjabmusic/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/PURE PUNJABI.jpg",PURE PUNJABI
+http://livestream.unlimitedcdn.com/agm-pp/pure-punjabi/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/9x M.jpg", 9x M
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/1422a4c7-4cb3-49ee-9c0d-08b02b525154/2.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/400x400.jpg",9X Jalwa
