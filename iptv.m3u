@@ -127,14 +127,7 @@ https://cdn2.in/HimachaliHitshls/live.m3u8
 https://cdn2.in/PhariTranghls/live.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Mh1.jpg",Mh1
 https://mhlive.paramountinfosystem.com/mhonedilse/098f6bcd4621d373cade4e832627b4f6.sdp/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/133333.jpg", GOLDMINE 
-http://103.156.169.82:8000/play/a01d/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/12222.jpg", GOLDMINE MOVIES
-http://103.156.169.82:8000/play/a01c/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/133333.jpg", GOLDMINE BOLLYWOOD
-http://103.156.169.82:8000/play/a011/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/223366.jpg", SOUTH CINEMA
-http://103.156.169.82:8000/play/a00f/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/5.jpg",Bollywood Clasic
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/6.jpg",Bollywood Prime
