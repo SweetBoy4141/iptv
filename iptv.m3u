@@ -126,7 +126,7 @@ http://livestream.unlimitedcdn.com/sanjhatv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Hariyana Beats.jpg",Hariyana Beats
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/haryana-beat/a1a154eb-0b8d-4bf4-9c16-d440a275386e/0.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Haranvi Hits.jpg", Haranvi Hits
-http://146.59.253.52:8080/haryanvi_hitstv/index.m3u8
+https://yuppnimresmum.akamaized.net/28072023/smil:haryanvihits.smil/hdntl=exp=1744433739~acl=%2f*~data=hdntl~hmac=44a63266f47666ec3bee2479cf925d4b604398ccba1263d1371c4ed006e70425/chunklist_b2628000.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Himachali Hits.jpg", Himachali Hits
 https://cdn2.in/HimachaliHitshls/live.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/PHARI-TARANG.jpg", Him Tarang
