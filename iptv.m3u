@@ -30,7 +30,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Chumbak-Tv.jpg", Chumbak-TV
 https://cdn.live.shemaroome.com/shemarooChumbakTV/smil:shemarooChumbakTVadp.smil/chunklist_b1628000_sleng.m3u8?hdnts=st%3D1744637586%7Eexp%3D1744648386%7Eacl%3D*%7Edata%3Dtestdata%7Ehmac%3D460aeae048b71a6f96056bfed1eaa61e650d8e62b922e08fbd2967aef1701667
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Nazra Tv.jpg",Nazra Tv
-https://epiconvh.s.llnwi.net/live/nazara/master_720.m3u8
+https://epiconvh.akamaized.net/live/nazara/master_1080.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/The Q Tv.jpg", The Q Tv
 https://vg-theqlive.akamaized.net/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-306905/a64d1716-3baf-416b-8012-8e8e71042808/2.m3u8
