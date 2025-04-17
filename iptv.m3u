@@ -178,6 +178,8 @@ https://d75f61259af04d9ea002d5429c934854.mediatailor.ap-south-1.amazonaws.com/v1
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Filmchi Bhojpuri.jpg", Filmchi Bhojpuri
 https://epiconvh.s.llnwi.net/live/filamchi/master_1080.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Shree Pashupatinath Temple.jpg",Shree Pashupatinath Temple,Madhya Pradesh Live
+https://cdn.live.shemaroome.com/pashupatinath/Stream1/chunklist.m3u8?hdnts=st%3D1744867917%7Eexp%3D1744878717%7Eacl%3D*%7Edata%3Dtestdata%7Ehmac%3D429d23282ce08b172e1e01d304ecef457d78110980b1ceb99db5e7008eabf090
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Bhakti-Play Tv 010.jpg",Bhakti Play tv
 https://cdn.live.shemaroome.com/rangangoav/smil:rangangoavadp.smil/chunklist_b1128000_sleng.m3u8?hdnts=st%3D1744637698%7Eexp%3D1744648498%7Eacl%3D*%7Edata%3Dtestdata%7Ehmac%3D103aad05b83b7c72a387367a22a453aaf52797add21a68b35071d94f3d4ce44f
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Atmadarshan Tv.jpg",Atmadarshan Tv
