@@ -202,6 +202,8 @@ http://103.156.169.82:8000/HOLLYWOOD.TADKA/index.m3u8
 http://103.156.169.82:8000/BOLLYWOOD.ACTION/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Filmchi Bhojpuri.jpg", Filmchi Bhojpuri
 https://epiconvh.s.llnwi.net/live/filamchi/master_1080.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Raapchik.jpg", Raapchik
+http://103.156.169.82:8000/RAAPCHIK/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Shree Pashupatinath Temple.jpg",Shree Pashupatinath Temple,Madhya Pradesh Live
 https://cdn.live.shemaroome.com/pashupatinath/Stream1/chunklist.m3u8?hdnts=st%3D1744867917%7Eexp%3D1744878717%7Eacl%3D*%7Edata%3Dtestdata%7Ehmac%3D429d23282ce08b172e1e01d304ecef457d78110980b1ceb99db5e7008eabf090
