@@ -90,6 +90,8 @@ http://146.59.253.52:8080/hindihitshd/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Comedy Tadka.jpg", Comedy Tadka
 https://streams2.sofast.tv/ptnr-yupptv/title-Comedy_Tadka_YUPPTV/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/0abe00bb-b6f3-4dcd-bdf6-12e74e08216c/2d94f67b-9d3b-40cb-877d-5d0771941f3b/1.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Zee_Punjabi (1).jpg",Zee Punjabi 
+http://67.219.215.19:80/play/live.php?mac=00:1A:79:dd:41:02&stream=48944&extension=m3u8&play_token=u1kHL19PFr
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Tabbar Hits.jpg",Tabbar Hits
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/tabbar-hits/87a481ae-705e-4f8b-a92f-cd9efbb50735/0.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/2.jpg",Bollywood Masala
