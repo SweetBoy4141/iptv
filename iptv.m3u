@@ -174,7 +174,7 @@ http://cdn12.henico.net:8080/live/sursangam/index.m3u8
 http://103.156.169.82:8000/ABC.CINEMA/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/ABC ACTION.jpg", Abc Action
 http://103.156.169.82:8000/ABC.ACTION/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Abc Desi bOX OFFICE", Abc BOX OFFICE
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Abc Desi bOX OFFICE.jpg", Abc BOX OFFICE
 http://shreeshyamtv.in:8000/ABC.BOXOFFICE/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Abc Desi PICTURES.jpg", ABC.PICTURE
 http://shreeshyamtv.in:8000/ABC.PICTURE/index.m3u8
