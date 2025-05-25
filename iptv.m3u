@@ -329,6 +329,8 @@ http://146.59.253.52:8080/Livekabaddi/tracks-v1a1/mono.m3u8
 http://158.69.124.9:1935/5aabtv/5aabtv/chunklist_w642807911.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/WINDOW TV .jpg",Window Punjab Tv
 http://cdn12.henico.net:8080/live/jbani/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Rpd Tv.jpg",Rpd Tv
+http://stream.rpdc.online/rpdcpunjabi/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/HARYANA NEWS.jpg",HARYANA NEWS
 http://shreeshyamtv.in:8000/HARYANA.NEWS/index.m3u8
