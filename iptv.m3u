@@ -277,10 +277,10 @@ https://aasthaott.akamaized.net/110923/smil:aasthakannada.smil/chunklist_b192800
 https://server.thelegitpro.in/saileelatv/saileelatv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Darbar Sahib Live 013.jpg", Darbar Sahib Live
 http://146.59.253.52:8080/sgpclive/video.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Dukh Niwaran Sahib.jpg", Dukh Niwaran Sahib Ludhiana 
 http://akalmultimedia.net:1935/gdnslive/gdns-live/chunklist.m3u8
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Bbs Channel.jpg",Bbs Channel
+http://taksaltv.ddns.net/damdamihls/taksal.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Ratwara Sahib Live 031.jpg", Gurdwara Ratwara Sahib 
 https://live.wmncdn.net/gurudwarasahib/f08a2f48b696fdfb759e62f7be8a0938.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/FATEH_TV.jpg", Fateh Tv
