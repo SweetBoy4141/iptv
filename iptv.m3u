@@ -39,8 +39,6 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Chumbak-Tv.jpg", Chumbak-TV
 https://cdn.live.shemaroome.com/shemarooChumbakTV/smil:shemarooChumbakTVadp.smil/chunklist_b1628000_sleng.m3u8?hdnts=st%3D1746543809%7Eexp%3D1746554609%7Eacl%3D*%7Edata%3Dtestdata%7Ehmac%3Dd9436c9f08bea66a4c963e9a6a8fab976b6fd962ae9e18708371f3fda6647408
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Desi-Play-TV.jpg",Desi Play Tv
-https://desiplaylive.akamaized.net/ptnr-yupptv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-660691/4cf68f50-0c5e-47a6-96e3-b78797a2b6fe/1.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Star Bharat HD.jpg",Star Bharat HD
 http://67.219.215.19:80/play/live.php?mac=00:1A:79:dd:41:02&stream=48935&extension=m3u8&play_token=u1kHL19PFr
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Nazra Tv.jpg",Nazra Tv
 https://epiconvh.akamaized.net/live/nazara/master_1080.m3u8
