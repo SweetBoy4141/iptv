@@ -17,6 +17,8 @@ https://cdn2.in/Rts24hls/live.m3u8
 https://cdn2.in/SteelbirdMusicTVhls/live.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Indoo z tv 004.jpg",Indooz tv
 https://cdn2.in/IndozeTvhls/live.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Bhakti Dhara.jpg",Bhakti Dhara
+https://amigofx.com:1936/bhaktidhara/bhaktidhara/chunklist_w1769359583.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/4.jpg",Yeshuaa tv
 https://cdn2.in/YeshuaaTVhls/live.m3u8
