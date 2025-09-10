@@ -38,14 +38,12 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/foodfood/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Cook & Bake Tv 0032.jpg", Cook & Bake Tv 
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/cook-and-bake/b6d6947f-0e8a-4fb8-9537-13964f953460/1.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Chumbak-Tv.jpg", Chumbak-TV
-https://cdn.live.shemaroome.com/shemarooChumbakTV/smil:shemarooChumbakTVadp.smil/chunklist_b1628000_sleng.m3u8?hdnts=st%3D1746543809%7Eexp%3D1746554609%7Eacl%3D*%7Edata%3Dtestdata%7Ehmac%3Dd9436c9f08bea66a4c963e9a6a8fab976b6fd962ae9e18708371f3fda6647408
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Desi-Play-TV.jpg",Desi Play Tv
-http://67.219.215.19:80/play/live.php?mac=00:1A:79:dd:41:02&stream=48935&extension=m3u8&play_token=u1kHL19PFr
+
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Nazra Tv.jpg",Nazra Tv
 https://epiconvh.akamaized.net/live/nazara/master_1080.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Green Chillies.jpg",Green Chillies tv
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/green-chillies-tv/bb2ac842-f6b9-43b4-a691-5cb07b804cc6/0.m3u8
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/green-chillies-tv/51f85d06-25e6-4cdb-bff6-7f2879e0dc8b/1.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Unique Tv.jpg",Unique Tv
 http://103.156.169.82:8000/UNIQUE/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/The Q Tv.jpg", The Q Tv
@@ -68,7 +66,7 @@ https://anjantvevent.pc.cdn.bitgravity.com/anjantv/live/amlst:event_anjan_,b400,
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/shemaroo-filmigaane/99c2cf61-b875-4a35-a3b5-76699f9dd30f/2.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/abc GOLD.jpg", Abc Gold
 http://103.156.169.82:8000/ABC.GOLD/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Jst In Tv.jpg",Jst In Tv
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Jst In Tv.jpg",Just In Tv
 http://209.52.98.98/justintv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Zoom TV.jpg",Zoom TV
 https://dai.google.com/linear/hls/pb/event/JCAm25qkRXiKcK1AJMlvKQ/stream/5471bfdb-51b5-47a8-84ba-49001479231a:TPE/variant/b747bf7f16eca8387cf3b154486dd818/bandwidth/4628000.m3u8
@@ -95,8 +93,7 @@ http://146.59.253.52:8080/hindihitshd/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Comedy Tadka.jpg", Comedy Tadka
 https://streams2.sofast.tv/ptnr-yupptv/title-Comedy_Tadka_YUPPTV/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/0abe00bb-b6f3-4dcd-bdf6-12e74e08216c/2d94f67b-9d3b-40cb-877d-5d0771941f3b/1.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Zee_Punjabi (1).jpg",Zee Punjabi 
-http://67.219.215.19:80/play/live.php?mac=00:1A:79:dd:41:02&stream=48944&extension=m3u8&play_token=u1kHL19PFr
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Tabbar Hits.jpg",Tabbar Hits
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/tabbar-hits/87a481ae-705e-4f8b-a92f-cd9efbb50735/0.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/2.jpg",Bollywood Masala
