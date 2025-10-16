@@ -63,6 +63,8 @@ https://epiconvh.s.llnwi.net/ishaara/master_720.m3u8
 https://amg01448-samsungin-dabanggin-samsungin-fi3y5.amagi.tv/playlist/amg01448-samsungin-dabanggin-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Shemaroo Umang 003.jpg", Shemaroo tv
 http://103.156.169.82:8000/SHEMAROO.TV/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Shemaroo Umang.jpg",Shemaroo Umang
+https://airtelapp.shemaroo.com/shemarooumang/smil:shemarooumangadp.smil/chunklist_b1628000_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Epic.jpg", Epic
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/epic-tv/dc733cac-2a40-4c9e-a236-ab23a0eb9740/3.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Anjan Tv.jpg", Anjan Tv
