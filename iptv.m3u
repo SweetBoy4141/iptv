@@ -287,7 +287,7 @@ http://taksaltv.ddns.net/damdamihls/taksal.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Ratwara Sahib Live 031.jpg", Gurdwara Ratwara Sahib 
 https://live.wmncdn.net/gurudwarasahib/f08a2f48b696fdfb759e62f7be8a0938.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/FATEH_TV.jpg", Fateh Tv
-https://ott.livelegitpro.in/fatehtv/fatehtv/tracks-v1/index.fmp4.m3u8
+https://ott.livelegitpro.in/fatehtv/fatehtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Chardikala Gurbani 016.jpg", Chardikala Gurbani
 https://chardikalatimestv.gigabitcdn.net/in-chardikala/chardikala-gurbani-tv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Garv Gurbani.jpg",Garv Gurbani
