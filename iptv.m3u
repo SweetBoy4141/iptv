@@ -222,7 +222,7 @@ https://dbrb49pjoymg4.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Hollywood.jpg", Hollywood Movies
 https://d75f61259af04d9ea002d5429c934854.mediatailor.ap-south-1.amazonaws.com/v1/manifest/d367f9b863a7a04827f71ecab4cbeeb11f78a827/RUNACT/c16d37e9-ddc1-44a9-9d73-659b341cddba/1.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Hollywood Tadka.jpg", Hollywood Tadka
-http://103.156.169.82:8000/HOLLYWOOD.TADKA/index.m3u8
+https://supflm.cdn.runn.tv/runntv/stream/p_supjio/manifest/1.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/BOLLYWOOD ACTION.jpg", Bollywood Action
 http://103.156.169.82:8000/BOLLYWOOD.ACTION/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/South Cinema.jpg", South Cinema
