@@ -69,6 +69,9 @@ https://airtelapp.shemaroo.com/shemarooumang/smil:shemarooumangadp.smil/chunklis
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/epic-tv/dc733cac-2a40-4c9e-a236-ab23a0eb9740/3.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Anjan Tv.jpg", Anjan Tv
 https://anjantvevent.pc.cdn.bitgravity.com/anjantv/live/amlst:event_anjan_,b400,b800,b1024,b1200,b1500,b4000,.smil/chunklist_b1024000.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Tv Asia.jpg", Tv Asia
+https://amg00206-amg00206c1-distrotv-us-6886.playouts.now.amagi.tv/playlist_fc18f0fd_2d126755.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/shemaroo-filmi-014.jpg", Shemaroo Filmi Gaane
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/shemaroo-filmigaane/99c2cf61-b875-4a35-a3b5-76699f9dd30f/2.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/abc GOLD.jpg", Abc Gold
