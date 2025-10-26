@@ -47,6 +47,8 @@ http://103.175.73.12:8080/live/12/master.m3u8
 http://103.175.73.12:8080/live/11/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Runn Tv.jpg",Runn tv
 https://supflm.cdn.runn.tv/runntv/stream/p_supjio/manifest/1.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Star Utsav.jpg", Star Utsav
+http://103.175.73.12:8080/live/9/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Nazra Tv.jpg",Nazra Tv
 https://epiconvh.akamaized.net/live/nazara/master_1080.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Green Chillies.jpg",Green Chillies tv
