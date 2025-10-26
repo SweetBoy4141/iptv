@@ -19,8 +19,7 @@ https://cdn2.in/Bsvtvhls/Stream.m3u8
 https://cdn2.in/SteelbirdMusicTVhls/live.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Indoo z tv 004.jpg",Indooz tv
 https://cdn2.in/IndozeTvhls/live.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Bhakti Dhara.jpg",Bhakti Dhara
-https://amigofx.com:1936/bhaktidhara/bhaktidhara/chunklist_w1769359583.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/4.jpg",Yeshuaa tv
 https://cdn2.in/YeshuaaTVhls/live.m3u8
@@ -40,6 +39,8 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Cook & Bake Tv 0032.jpg", Cook & Bake Tv 
 https://cc-swbj49v56imaw.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-swbj49v56imaw/db183417-ece0-4e92-aef3-117501f24b5d/0.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Sony Wah .jpg", Sony Wah 
+http://103.175.73.12:8080/live/38/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Colors Rishtey.jpg", Colors Rishtey
 http://103.175.73.12:8080/live/12/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Sony Pal.jpg", Sony Pal
@@ -50,8 +51,7 @@ https://supflm.cdn.runn.tv/runntv/stream/p_supjio/manifest/1.m3u8
 http://103.175.73.12:8080/live/9/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Nazra Tv.jpg",Nazra Tv
 https://epiconvh.akamaized.net/live/nazara/master_1080.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Green Chillies.jpg",Green Chillies tv
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/green-chillies-tv/51f85d06-25e6-4cdb-bff6-7f2879e0dc8b/1.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Unique Tv.jpg",Unique Tv
 http://103.156.169.82:8000/UNIQUE/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/The Q Tv.jpg", The Q Tv
@@ -77,7 +77,6 @@ https://amg00206-amg00206c1-distrotv-us-6886.playouts.now.amagi.tv/playlist_fc18
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/shemaroo-filmi-014.jpg", Shemaroo Filmi Gaane
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/shemaroo-filmigaane/99c2cf61-b875-4a35-a3b5-76699f9dd30f/2.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Jst In Tv.jpg",Just In Tv
 http://209.52.98.98/justintv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Zoom TV.jpg",Zoom TV
@@ -200,25 +199,21 @@ https://janya-rdcmovies.akamaized.net/v1/manifest/611d79b11b77e2f571934fd80ca141
 http://103.156.169.82:8000/GOLDMINE/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Goldmines Movies.jpg", Goldmines Movies
 http://103.156.169.82:8000/GOLDMINE.MOVIE/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Z BOLLYMOVIES.jpg", Z Bolly Movies
-https://amg17931-zee-amg17931c8-samsung-th-6526.playouts.now.amagi.tv/playlist720p.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Shemaroo Bollywood 012.jpg", Shemaroo Bollywood
 https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/The Movie Club.jpg", The Movie Club
 https://cc-jytb1qhmgqh5a.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jytb1qhmgqh5a/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/South Statino.jpg", South Station
 https://cc-tke03xaj1wszc.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-tke03xaj1wszc/South_Station_IN/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Z SOUTH FLIX.jpg", Z South Flix
-https://amg00862-amg00862c9-amgplt0173.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg00862-amg00862c9-amgplt0173/5a91a6af-aaaa-11f0-842c-3e9a31253642/73/1280x720_4564560/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Bollywood 4u.jpg", Local 
 https://dbrb49pjoymg4.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/7be04f99-5bf2-430b-86dd-4e1577159f1b/4.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Hollywood.jpg", Hollywood Movies
 https://playyonogames.in/live.php?cid=3345&chunks=RxIQjyNtpUwxT6SbNXD4QpeWtuoM8UlNK6l5vzZ2kJgAaQcf5gQ_08YdF1QPAfR5d3m757d4T_ujKTUWWcmc83qdDY5V4tYKwIwWruCEuCI&vtoken=
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Hollywood Tadka.jpg", Hollywood Tadka
 https://supflm.cdn.runn.tv/runntv/stream/p_supjio/manifest/1.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Z Horror Nights.jpg", Z Horror Nights
-https://amg00862-amg00862c7-amgplt0173.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg00862-amg00862c7-amgplt0173/6c684210-aaab-11f0-819d-6a4854d5a9ad/5/1280x720_4564560/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/BOLLYWOOD ACTION.jpg", Bollywood Action
+
 http://103.156.169.82:8000/BOLLYWOOD.ACTION/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/South Cinema.jpg", South Cinema
 http://103.156.169.82:8000/SOUTH.CINEMA/index.m3u8
@@ -232,6 +227,8 @@ https://epiconvh.s.llnwi.net/live/filamchi/master_1080.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Raapchik.jpg", Raapchik
 http://103.156.169.82:8000/RAAPCHIK/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Bhakti Dhara.jpg",Bhakti Dhara
+https://amigofx.com:1936/bhaktidhara/bhaktidhara/chunklist_w1769359583.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Varinda van dhaam.jpg", Varindavan Dhaam
 http://cdn12.henico.net:8080/live/varindavan/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Bhakti Dhara.jpg", Bhakti Dhara
