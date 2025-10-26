@@ -180,8 +180,8 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/shemaroo-bollywood/b76c4ad2-cc0a-43e3-888f-f3e322cfa56f/0.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/YYZ TV.jpg",YYZ TV
 http://cdn12.henico.net:8080/live/sursangam/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/NH BOLLYWOOD.jpg",Nh Bollywood
-https://nh-runntv-blygld.cdn.runn.tv/nhstdz/stream/blygld/manifest/2.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/ManoranjanMovies.jpg", Manoranjan Movies
+https://cdn-2.pishow.tv/live/228/228_1.m3u8
 #
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/B4U_Kadak.jpg", B4U Kadak
 https://cdnb4u.wiseplayout.com/B4U_Kadak/HD720/HD720.m3u8
