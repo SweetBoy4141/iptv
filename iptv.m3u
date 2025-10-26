@@ -190,7 +190,7 @@ https://cdn-2.pishow.tv/live/419/419_1.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Movie-Plus 012.jpg", Movie-Plus
 https://cdn-2.pishow.tv/live/1155/1155_2.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/ALL TIME MOVIES.jpg", All Time Movies
-http://103.156.169.82:8000/ALLTIME.MOVIE/index.m3u8
+http://103.175.73.12:8080/live/54/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Abzy Movies.jpg", Abzy Movies
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/db8d4eca72d64748a00d0631debf542d/index_3.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/RDC Movies.jpg", RDC Movies
