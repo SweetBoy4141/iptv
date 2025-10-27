@@ -45,7 +45,7 @@ http://103.156.169.82:8000/UNIQUE/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Green Chillies Tv.jpg", Green Chillies Tv
 https://cable5tatasky.akamaized.net/live/GreenChillies_Playout-Main/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/The Q Tv.jpg", The Q Tv
-https://vg-theqlive.akamaized.net/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-306905/a64d1716-3baf-416b-8012-8e8e71042808/2.m3u8
+http://103.175.73.12:8080/live/25/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Dangal Tv.jpg",Dangal Tv
 https://live-dangal.akamaized.net/liveabr/pub-iodang10p4al/live_720p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Dangal-2.jpg",Dangal-2
