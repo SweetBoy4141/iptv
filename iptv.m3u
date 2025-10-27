@@ -21,7 +21,7 @@ https://cdn2.in/IndozeTvhls/live.m3u8
 https://cdn2.in/YeshuaaTVhls/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Manoranjan Prime.jpg", Manoranjan Prime
-http://103.175.73.12:8080/live/18/master.m3u8
+http://103.175.73.12:8080/live/18/18_0.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Sony Wah .jpg", Sony Wah 
 http://103.175.73.12:8080/live/38/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Colors Rishtey.jpg", Colors Rishtey
