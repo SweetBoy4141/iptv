@@ -66,6 +66,8 @@ https://anjantvevent.pc.cdn.bitgravity.com/anjantv/live/amlst:event_anjan_,b400,
 http://103.175.73.12:8080/live/708/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Tv Asia.jpg", Tv Asia
 https://amg00206-amg00206c1-distrotv-us-6886.playouts.now.amagi.tv/playlist_fc18f0fd_2d126755.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Hi Dost.jpg", Hi Dost
+http://103.175.73.12:8080/live/713/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Foodie Hub.jpg", Foodie Hub 
 https://cc-oq5ndvigrlkaa.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-oq5ndvigrlkaa/4b8bd053-8cfb-42ac-8266-f5dd89db7b5d/1.m3u8
