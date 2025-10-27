@@ -104,7 +104,7 @@ https://amigofx.com:1936/SMusic/SMusic/chunklist_w1542875440.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Tabbar Hits.jpg",Tabbar Hits
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/tabbar-hits/87a481ae-705e-4f8b-a92f-cd9efbb50735/0.m3u8
+http://103.175.73.12:8080/live/640/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/2.jpg",Bollywood Masala
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-masala/08c6bc7c-9035-4098-8d2f-cb11fb2bf16d/1.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/PITAARA COMEDY.jpg",PITAARA COMEDY
