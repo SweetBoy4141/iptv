@@ -299,6 +299,8 @@ https://aasthaott.akamaized.net/110923/smil:aasthakannada.smil/chunklist_b192800
 https://server.thelegitpro.in/saileelatv/saileelatv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Darbar Sahib Live 013.jpg", Darbar Sahib Live
 http://146.59.253.52:8080/sgpclive/video.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Ptc Simran.jpg", Ptc Simran
+http://103.175.73.12:8080/live/183/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Dukh Niwaran Sahib.jpg", Dukh Niwaran Sahib Ludhiana 
 http://akalmultimedia.net:1935/gdnslive/gdns-live/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Bbs Channel.jpg",Bbs Channel
