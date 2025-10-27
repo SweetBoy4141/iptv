@@ -61,7 +61,7 @@ https://airtelapp.shemaroo.com/shemarooumang/smil:shemarooumangadp.smil/chunklis
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Epic.jpg", Epic
 https://epiconvh.akamaized.net/live/epic/master_480.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Anjan Tv.jpg", Anjan Tv
-https://anjantvevent.pc.cdn.bitgravity.com/anjantv/live/amlst:event_anjan_,b400,b800,b1024,b1200,b1500,b4000,.smil/chunklist_b1024000.m3u8
+http://103.175.73.12:8080/live/20/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Pasand Tv.jpg", Pasand Tv
 http://103.175.73.12:8080/live/708/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Tv Asia.jpg", Tv Asia
