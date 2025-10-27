@@ -116,11 +116,11 @@ http://209.52.98.98/justintv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Ptc_Punjabi_Gold 008.jpg",Ptc Punjabi Gold
  http://103.156.169.82:8000/PTC.PUNJABI.GOLD/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/PTC PUNJABI 005.jpg",Ptc Punjabi
-http://103.156.169.82:8000/PTC.PUNJABI/index.m3u8
+http://103.175.73.12:8080/live/175/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/PTC CHAK DE 006.jpg",Ptc Chak de
-http://103.156.169.82:8000/PTC.CHAKDE/index.m3u8
+http://103.175.73.12:8080/live/180/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Ptc_Music 007.jpg",Ptc music
- http://103.156.169.82:8000/PTC.MUSIC/index.m3u8
+ http://103.175.73.12:8080/live/181/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/11.jpg",Balle Balle
 https://mcncdndigital.com/balleballetv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Balle Balle Hd.jpg",Balle Balle HD
