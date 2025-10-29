@@ -175,7 +175,8 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 https://live20.bozztv.com/giatvplayout7/giatv-209622/tracks-v1a1/mono.ts.m3u8
 
 
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/NH Bolly Flix.jpg", NH Bolly Flix
+https://2591a0ff9bc74048b89ae1954c9f7bdb.mediatailor.ap-south-1.amazonaws.com/v1/manifest/d367f9b863a7a04827f71ecab4cbeeb11f78a827/nh-bollyflix-airtel/67c75bf9-b03f-4485-acaf-5e57d126f7a9/1.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Mh1.jpg",Mh1
 http://103.175.73.12:8080/live/353/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Manoranjan Grand 012.jpg", Manoranjan Grand
