@@ -163,6 +163,8 @@ http://103.175.73.12:8080/live/353/master.m3u8
 http://livestream.unlimitedcdn.com/sanjhatv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/D5 Punjabi.jpg", D5 Punjabi
 https://d5.tv360.ca:3453/live/cd5live.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Haryana Beats.jpg", Haryana Beats
+https://legitpro.co.in/haryanabeat/haryanabeat/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Gubbare 029.jpg", Gubbare
 https://epiconvh.akamaized.net/live/gubbare/master_1080.m3u8
