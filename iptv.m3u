@@ -165,6 +165,8 @@ http://livestream.unlimitedcdn.com/sanjhatv/tracks-v1a1/mono.m3u8
 https://d5.tv360.ca:3453/live/cd5live.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Haryana Beats.jpg", Haryana Beats
 https://legitpro.co.in/haryanabeat/haryanabeat/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Saga Haryanvi.jpg", Saga Haryanvi
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/saga-music-haryanvi/6121a48a-55bd-4f55-a3ed-08fb8162d35c/1.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Gubbare 029.jpg", Gubbare
 https://epiconvh.akamaized.net/live/gubbare/master_1080.m3u8
