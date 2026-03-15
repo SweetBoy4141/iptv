@@ -11,6 +11,12 @@ https://stream.e2is.in/hls/PunjabiCinema.m3u8
 http://stream.e2is.in/hls/PunjabPlus.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/13.jpg",Vidata Darshan
 https://cdn2.in/VidhataDarshanTvhls/live.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/334.jpg",Valam tv
+http://cabletv.valamtv.in/hls/stream0.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/335.jpg",Shree Sanatan tv tv
+http://sanatan.valamtv.in/hls/shree/bhattji.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/333.jpg",Valam tv Dayro
+http://dayro.valamtv.in/hls/shree/bhattji.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Bhakti Siddhanta Tv.jpg",Bhakti Siddhanta Tv
 https://cdn2.in/Bsvtvhls/Stream.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/83399091-2715-4d98-9b32-91bd9670a8ea.jpg",Steelbird Music
