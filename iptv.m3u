@@ -95,7 +95,7 @@ http://a-edge.bliscdn.com/Visionbeats/index.m3u8
 https://live.maxtn.in/maxmusic/maxmusic/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Gangor Tv.jpg", Gangor Tv
-https://pbgangaur.wiseplayout.com/Gangaur/HD720/HD720.m3u8
+https://pbgangaur.wiseplayout.com/Gangaur/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Yrf Music.jpg",Yrf Music
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/yrf-music/64cea3f1-fa23-4d50-b6c0-ace3a37055a3/1.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/E 24 012.jpg", E 24
@@ -121,13 +121,13 @@ http://103.175.73.12:8080/live/639/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Jst In Tv.jpg",Just In Tv
 http://209.52.98.98/justintv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Ptc_Punjabi_Gold 008.jpg",Ptc Punjabi Gold
- http://103.156.169.82:8000/PTC.PUNJABI.GOLD/index.m3u8
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/6e14bac6d0384e129521a4d005188bfb/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/PTC PUNJABI 005.jpg",Ptc Punjabi
-http://103.175.73.12:8080/live/175/master.m3u8
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/3e22a9c278db4e3eb779afd42e41b0a6/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/PTC CHAK DE 006.jpg",Ptc Chak de
 http://103.175.73.12:8080/live/180/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Ptc_Music 007.jpg",Ptc music
- http://103.175.73.12:8080/live/181/master.m3u8
+https://d2lk5u59tns74c.cloudfront.net/out/v1/f913cf893c594f73b114216e74a2efbc/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/11.jpg",Balle Balle
 https://mcncdndigital.com/balleballetv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Balle Balle Hd.jpg",Balle Balle HD
