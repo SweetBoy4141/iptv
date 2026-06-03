@@ -5,8 +5,6 @@ https://cloudcdn.in/livetv/DesiTashan/index.m3u8
 https://cloudcdn.in/live/shreeshyamtv/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/a578dc90-8ad4-4d06-a7ae-13e3325af2d3.jpg",7X Music
 https://cdn2.in/7xPunjabihls/live.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/7 SEA.jpg", 7 SEA
-https://stream.e2is.in/hls/PunjabiCinema.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Punjab Plus.jpg",Punjab Plus
 http://stream.e2is.in/hls/PunjabPlus.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/13.jpg",Vidata Darshan
@@ -17,8 +15,6 @@ http://cabletv.valamtv.in/hls/stream0.m3u8
 http://sanatan.valamtv.in/hls/shree/bhattji.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/333.jpg",Valam tv Dayro
 http://dayro.valamtv.in/hls/shree/bhattji.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Bhakti Siddhanta Tv.jpg",Bhakti Siddhanta Tv
-https://cdn2.in/Bsvtvhls/Stream.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/83399091-2715-4d98-9b32-91bd9670a8ea.jpg",Steelbird Music
 https://cdn2.in/SteelbirdMusicTVhls/live.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Indoo z tv 004.jpg",Indooz tv
@@ -220,6 +216,26 @@ http://103.175.73.12:8080/live/437/master.m3u8
 http://103.175.73.12:8080/live/14/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Star Utsav Movies.jpg", Star Utsav Movies
 http://103.175.73.12:8080/live/42/42_0.m3u8
+#EXTINF:-1 tvg-id="63651" tvg-name="Kings Of Comedy", Kings Of Comedy
+https://jmp2.uk/stvp-IN46000184H
+
+#EXTINF:-1 tvg-id="63651" tvg-name="The Movie Club", The Movie Club
+https://jmp2.uk/stvp-IN38000072R
+
+#EXTINF:-1 tvg-id="63651" tvg-name="South Station", South Station
+https://jmp2.uk/stvp-IN3800008CX
+
+#EXTINF:-1 tvg-id="63651" tvg-name="Comedy King", Comedy King
+https://jmp2.uk/stvp-IN3600006RT
+
+#EXTINF:-1 tvg-id="63651" tvg-name="Hollywood Desi", Hollywood Desi
+https://jmp2.uk/stvp-IN3800010SH
+
+#EXTINF:-1 tvg-id="63651" tvg-name="Korean TV", Korean TV
+https://jmp2.uk/stvp-IN3600005NF
+
+#EXTINF:-1 tvg-id="63651" tvg-name="B4U Movies", B4U Movies
+https://jmp2.uk/stvp-IN3900016WI
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/B4U_Kadak.jpg", B4U Kadak
 https://cdnb4u.wiseplayout.com/B4U_Kadak/HD720/HD720.m3u8
