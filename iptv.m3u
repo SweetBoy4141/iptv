@@ -349,6 +349,8 @@ https://d34z4embz0hjf6.cloudfront.net/out/v1/d55b3323a9f142638f897378f0b526fe/in
 https://server.thelegitpro.in/santvanitv/santvanitv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Dharam Sandesh Tv.jpg", Dharam Sandesh Tv
 https://aasthaott.akamaized.net/110923/smil:arihant.smil/chunklist_b1928000.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Salam Bangla.jpg", Salam Bangla 
+rtmp://live-stream.amarbanglatv.in/live/salambangla
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Aamar Bangla.jpg", Aamar Bangla 
 rtmp://live-stream.amarbanglatv.in/live/amarbangla
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Aamar Digital.jpg", Aamar Digital 
