@@ -219,8 +219,9 @@ https://cdn-2.pishow.tv/live/228/228_1.m3u8
 http://103.175.73.12:8080/live/437/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Colors Cineplex Super Hits.jpg", Colors Cineplex Super Hits
 http://103.175.73.12:8080/live/14/master.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Star Utsav Movies.jpg", Star Utsav Movies
-http://103.175.73.12:8080/live/42/42_0.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Maha Movie.jpg", Maha Movie
+http://103.175.73.12:8080/live/48/48_0.m3u8
+
 #EXTINF:-1 tvg-id="63651" tvg-name="Kings Of Comedy", Kings Of Comedy
 https://jmp2.uk/stvp-IN46000184H
 
