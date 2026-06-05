@@ -66,6 +66,8 @@ http://103.175.73.12:8080/live/713/master.m3u8
 https://jmp2.uk/stvp-IN46000184H
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Comedy King.jpg", Comedy King
 https://jmp2.uk/stvp-IN3600006RT
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Comedy Tadka.jpg", Comedy Tadka
+https://vglivessai.akamaized.net/ptnr-lg/title-COMEDY_TADKA-LGIndia/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/79a85c7e-a12a-4739-a575-66b4684f91fa/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Foodie Hub.jpg", Foodie Hub 
 https://jmp2.uk/stvp-IN460000313
