@@ -414,6 +414,10 @@ http://stream.rpdc.online/rpdcpunjabi/tracks-v1a1/mono.m3u8
 http://cdn12.henico.net:8080/live/guntaas/index.m3u8
 
 NEWS
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Good News Today.jpg", Good News Today
+http://103.175.73.12:8080/live/89/89_0.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/HARYANA NEWS.jpg",HARYANA NEWS
 http://shreeshyamtv.in:8000/HARYANA.NEWS/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Aaj Tak.jpg",Aaj Tak
