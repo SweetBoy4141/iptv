@@ -468,7 +468,8 @@ https://6n3yow8pl9ok-hls-live.5centscdn.com/sadhananewstv/live.stream/chunks.m3u
 https://95eryw7zdwn4-hls-live.wmncdn.net/sarvdharamsangam/tv.stream/chunks.m3u8
 
 
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Digital Fashion.jpg", Digital Fashion 
+rtmp://live-stream.amarbanglatv.in/live/digitalfashion
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Mon Tv.jpg", Mon Tv 
 rtmp://live-stream.amarbanglatv.in/live/montvbangla
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Sananda Tv.jpg", Sananda Tv 
