@@ -300,6 +300,8 @@ DHARMIC
 https://jmp2.uk/stvp-IN4600011RZ
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Vedantras Tv.jpg",Vedantras Tv
 https://stream.ottlive.co.in/vedantswarshree/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Adhyatm TV HD.jpg",Adhyatm TV HD
+https://stream.ottlive.co.in/adhyatamtv/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Varinda van dhaam.jpg", Varindavan Dhaam
 http://cdn12.henico.net:8080/live/varindavan/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Atmadarshan Tv.jpg",Atmadarshan Tv
