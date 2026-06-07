@@ -343,11 +343,11 @@ https://server.thelegitpro.in/santvanitv/santvanitv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Dharam Sandesh Tv.jpg", Dharam Sandesh Tv
 https://aasthaott.akamaized.net/110923/smil:arihant.smil/chunklist_b1928000.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Salam Bangla.jpg", Salam Bangla 
-rtmp://live-stream.amarbanglatv.in/live/salambangla
+http://115.187.41.216:8080/hls/salambangla/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Aamar Bangla.jpg", Aamar Bangla 
-rtmp://live-stream.amarbanglatv.in/live/amarbangla
+http://115.187.41.216:8080/hls/amarbangla/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Aamar Digital.jpg", Aamar Digital 
-rtmp://live-stream.amarbanglatv.in/live/amardigital
+http://115.187.41.216:8080/hls/amardigital/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Astha Gujrati Tv.jpg", Astha Gujrati
 https://aasthaott.akamaized.net/110923/smil:aasthagujrati.smil/chunklist_b1928000.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Astha Tamil.jpg", Astha Tamil
@@ -493,13 +493,13 @@ http://103.175.73.12:8080/live/64/64_0.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Digital Fashion.jpg", Digital Fashion 
-rtmp://live-stream.amarbanglatv.in/live/digitalfashion
+http://115.187.41.216:8080/hls/digitalfashion/index.
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Mon Tv.jpg", Mon Tv 
-rtmp://live-stream.amarbanglatv.in/live/montvbangla
+http://115.187.41.216:8080/hls/montvbangla/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Ekhon Lolkata.jpg", Ekhon Lolkata
 https://server.playontv.in/ekhonkolkata/ekhonkolkata/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Sananda Tv.jpg", Sananda Tv 
-rtmp://live-stream.amarbanglatv.in/live/sanandatv
+http://115.187.41.216:8080/hls/sanandatv/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Sangeet Bhijpuri.jpg", Sangeet Bhijpuri
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Sangeetbhojpuri/default/sangeetbhojpuri-audio_208482_und=208000-video=2137600.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Fakat Marathi.jpg", Fakat Marathi
