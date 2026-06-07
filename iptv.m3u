@@ -498,7 +498,7 @@ http://103.175.73.12:8080/live/64/64_0.m3u8
 http://115.187.41.216:8080/hls/digitalfashion/index.
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Mon Tv.jpg", Mon Tv 
 http://115.187.41.216:8080/hls/montvbangla/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Ekhon Lolkata.jpg", Ekhon Lolkata
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Ekhon Lolkata.jpg",Ekhon Lolkata
 https://server.playontv.in/ekhonkolkata/ekhonkolkata/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Sananda Tv.jpg", Sananda Tv 
 http://115.187.41.216:8080/hls/sanandatv/index.m3u8
