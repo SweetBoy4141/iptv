@@ -224,15 +224,15 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 http://cdn12.henico.net:8080/live/sursangam/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/ManoranjanMovies.jpg", Manoranjan Movies
 https://cdn-2.pishow.tv/live/228/228_1.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Colors Cineplex Bollywood.jpg", Colors Cineplex Bollywood
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Colors Cineplex Bollywood.jpg", TEST-1
 http://103.175.73.12:8080/live/437/master.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Colors Cineplex Super Hits.jpg", Colors Cineplex Super Hits
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Colors Cineplex Super Hits.jpg", TEST-2
 http://103.175.73.12:8080/live/14/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Maha Movie.jpg", Maha Movie
 http://103.175.73.12:8080/live/48/48_0.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/B4U_Kadak.jpg", B4U Kadak
 https://cdnb4u.wiseplayout.com/B4U_Kadak/HD720/HD720.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Wow Cinema One 012.jpg", Wow Cinema One
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Wow Cinema One 012.jpg", TEST-3
 https://cdn-2.pishow.tv/live/231/231_1.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/B4u Movies.jpg", B4u Movies
 https://cdn-2.pishow.tv/live/419/419_1.m3u8
@@ -240,7 +240,7 @@ https://cdn-2.pishow.tv/live/419/419_1.m3u8
 https://cdn-2.pishow.tv/live/1155/1155_2.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/ALL TIME MOVIES.jpg", All Time Movies
 http://103.175.73.12:8080/live/54/master.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Abzy Movies.jpg", Abzy Movies
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Abzy Movies.jpg", TEST-4
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/db8d4eca72d64748a00d0631debf542d/index_3.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Goldmines.jpg", Goldmines
 https://cdn-2.pishow.tv/live/1459/1459_1.m3u8
