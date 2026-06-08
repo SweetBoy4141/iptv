@@ -206,7 +206,11 @@ https://live20.bozztv.com/giatvplayout7/giatv-209622/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Mr Bean Animated.jpg", Mr Bean Animated
 https://amg00627-amg00627c23-samsung-th-5282.playouts.now.amagi.tv/720p-vtt-ar/index.m3u8
 
+
 MOVIE CHANNEL
+
+
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/NH BollyRaga.jpg", NH BollyRaga
 https://jmp2.uk/stvp-IN460001373
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/NH Bolly Flix.jpg", NH Bolly Flix
@@ -245,8 +249,8 @@ https://cdn-2.pishow.tv/live/419/419_1.m3u8
 https://cdn-2.pishow.tv/live/1155/1155_2.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/ALL TIME MOVIES.jpg", All Time Movies
 http://103.175.73.12:8080/live/54/master.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Abzy Movies.jpg", TEST-4
-https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/db8d4eca72d64748a00d0631debf542d/index_3.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Zee Anmol Cinema 2.jpg", Zee Anmol Cinema 2
+http://103.175.73.12:8080/live/257/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Goldmines.jpg", Goldmines
 https://cdn-2.pishow.tv/live/1459/1459_1.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Goldmines Movies.jpg", Goldmines Movies
