@@ -22,6 +22,9 @@ https://cdn2.in/IndozeTvhls/live.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/4.jpg",Yeshuaa tv
 https://cdn2.in/YeshuaaTVhls/live.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/.jpg",MAHA MAXX
+http://103.175.73.12:8080/live/684/master.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Z DIL SE .jpg", Z DIL SE 
 https://amg00862-amg00862c6-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c6-amgplt0173/playlist.m3u8
