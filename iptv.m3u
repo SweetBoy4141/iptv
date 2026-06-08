@@ -387,7 +387,7 @@ http://103.177.40.35/hls/stream0.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Nihal Tv  ( Nanaksar ) 034.jpg", Nihal Tv ( Nanaksar Kaleran )
 https://main.clickstreamcdn.com/sp/mr-singh/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Sikh Ratnavali.jpg", Sikh Ratnavali
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/sikh-ratnavali/d3d0bdad-6dab-4b1d-bc23-90ba4af7f9e6/5.m3u8
+https://amg00223-amg00223c6-amgplt0173.playout.now3.amagi.tv/playlist/amg00223-amg00223c6-amgplt0173/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Akaal tv.jpg",Akaal tv
 https://cdn-globecast.akamaized.net/live/eds/akaal_tv/hls1_smart_akaal/akaal_tv-avc1_1000000=2-mp4a_104000_eng=4.m3u8
 
