@@ -220,6 +220,35 @@ http://stream.rpdc.online/rpdcpunjabi/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Guntas Radi & Tv.jpg",Guntaas Radi & Tv
 http://cdn12.henico.net:8080/live/guntaas/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Darbar Sahib Live 013.jpg", Darbar Sahib Live
+http://146.59.253.52:8080/sgpclive/video.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Ptc Simran.jpg", Ptc Simran
+http://103.175.73.12:8080/live/183/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Namdhari tv.jpg",Namdhari Tv
+https://namdhari.tv/live/sbs1.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Dukh Niwaran Sahib.jpg", Dukh Niwaran Sahib Ludhiana 
+http://akalmultimedia.net:1935/gdnslive/gdns-live/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Bbs Channel.jpg",Bbs Channel
+http://taksaltv.ddns.net/damdamihls/taksal.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Ratwara Sahib Live 031.jpg", Gurdwara Ratwara Sahib 
+https://live.wmncdn.net/gurudwarasahib/f08a2f48b696fdfb759e62f7be8a0938.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/FATEH_TV.jpg", Fateh Tv
+https://ott.livelegitpro.in/fatehtv/fatehtv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Chardikala Gurbani 016.jpg", Chardikala Gurbani
+https://chardikalatimestv.gigabitcdn.net/in-chardikala/chardikala-gurbani-tv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Garv Gurbani.jpg",Garv Gurbani
+https://server.livelegitpro.in/gurbani/gurbani/tracks-v1a1/mono.ts.m3u8?hdnts=st%3D1744637900%7Eexp%3D1744648700%7Eacl%3D%2A%7Edata%3Dtestdata%7Ehmac%3D156c65e4477d2403f30f1722764a3d9e2b3c684c64fc17f2c12dd5075eaff31f
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/vision punjab gurbani 020.jpg", Visin Punjab Gurbani
+http://a-edge.bliscdn.com/Visionpunjabgurbani/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Amrit Gurbani.jpg", Amrit Gurbani
+http://103.177.40.35/hls/stream0.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Nihal Tv  ( Nanaksar ) 034.jpg", Nihal Tv ( Nanaksar Kaleran )
+https://main.clickstreamcdn.com/sp/mr-singh/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Sikh Ratnavali.jpg", Sikh Ratnavali
+https://amg00223-amg00223c6-amgplt0173.playout.now3.amagi.tv/playlist/amg00223-amg00223c6-amgplt0173/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Akaal tv.jpg",Akaal tv
+https://cdn-globecast.akamaized.net/live/eds/akaal_tv/hls1_smart_akaal/akaal_tv-avc1_1000000=2-mp4a_104000_eng=4.m3u8
+
 
 
 
