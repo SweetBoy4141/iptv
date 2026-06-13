@@ -5,6 +5,8 @@ https://cloudcdn.in/live/shreeshyamtv/index.m3u8
 https://cdn2.in/7xPunjabihls/live.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/desi_tashan.jpg",DESI TASHAN
 https://cloudcdn.in/livetv/DesiTashan/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/7 Days Hulchal.jpg",7 Days Hulchal
+https://cdn2.in/7DaysHulchalhls/LiveStream7.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Punjab Plus.jpg",Punjab Plus
 https://cdn2.in/PunjabPlushls/live.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/13.jpg",Vidata Darshan
