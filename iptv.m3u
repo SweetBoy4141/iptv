@@ -2,13 +2,13 @@
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/sri_shyam_tv.jpg",SRI SHYAM TV
 https://cloudcdn.in/live/shreeshyamtv/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/a578dc90-8ad4-4d06-a7ae-13e3325af2d3.jpg",7X Music
-https://cdn2.in/7xPunjabihls/live.m3u8
+http://cdn2.in/7xPunjabihls/live.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/desi_tashan.jpg",DESI TASHAN
 https://cloudcdn.in/livetv/DesiTashan/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/7 Days Hulchal.jpg",7 Days Hulchal
-https://cdn2.in/7DaysHulchalhls/LiveStream7.m3u8
+http://cdn2.in/7DaysHulchalhls/LiveStream7.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Punjab Plus.jpg",Punjab Plus
-https://cdn2.in/PunjabPlushls/live.m3u8
+http://cdn2.in/PunjabPlushls/live.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/13.jpg",Vidata Darshan
 https://cdn2.in/VidhataDarshanTvhls/live.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/334.jpg",Valam tv
@@ -20,9 +20,9 @@ http://dayro.valamtv.in/hls/shree/bhattji.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/83399091-2715-4d98-9b32-91bd9670a8ea.jpg",Steelbird Music
 https://cdn2.in/SteelbirdMusicTVhls/live.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Indoo z tv 004.jpg",Indooz tv
-https://cdn2.in/IndozeTvhls/live.m3u8
+http://cdn2.in/IndozeTvhls/live.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/4.jpg",Yeshuaa tv
-https://cdn2.in/YeshuaaTVhls/live.m3u8
+http://cdn2.in/YeshuaaTVhls/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/.jpg",TEST 1
 http://103.175.73.12:8080/live/684/master.m3u8
