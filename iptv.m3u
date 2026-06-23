@@ -558,8 +558,8 @@ http://103.175.73.12:8080/live/379/master.m3u8
 http://103.175.73.12:8080/live/378/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Khushboo Bangla.jpg", Khushboo Bangla
 http://103.175.73.12:8080/live/375/master.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Filmchi Bhojpuri.jpg", Filmchi Bhojpuri
-https://epiconvh.s.llnwi.net/live/filamchi/master_1080.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Public Movies.jpg", Public Movies
+http://103.175.73.12:8080/live/239/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Raapchik.jpg", Raapchik
 http://103.156.169.82:8000/RAAPCHIK/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Bollywood & Indian Cinema.jpg", Bollywood & Indian Cinema
