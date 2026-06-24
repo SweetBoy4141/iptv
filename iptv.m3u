@@ -566,8 +566,8 @@ http://103.156.169.82:8000/RAAPCHIK/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Bollywood & Indian Cinema.jpg", Bollywood & Indian Cinema
 https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/8630eb73-5053-4482-bd84-27c8bc5db017/4.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/B4U Bhojpuri.jpg",B4U Bhojpuri
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/E Tv Music.jpg",E Tv Music
-https://jmp2.uk/stvp-IN4900002RV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Nm Flix.jpg", Nm Flix
+https://freshlive.in/nmflix/nmflix/index.m3u8
 EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Wild Flix.jpg", Wild Flix
 https://cc-qgrxgp51645lw.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-qgrxgp51645lw/f8fb3889-0846-42ae-97b7-e59258bddd21/1.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Sangeet Marathi.jpg",Sangeet Marathi
