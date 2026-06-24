@@ -463,6 +463,8 @@ https://server.thelegitpro.in/saileelatv/saileelatv/tracks-v1a1/mono.m3u8
 https://freshlive.in/atmavanitv/atmavanitv/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Go Sansaar.jpg", Go Sansaar
 https://freshlive.in/gosansaar/gosansaar/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Swastik Tv.jpg", Swastik Tv
+https://server.playontv.in/swastiktv/index.m3u8
 
 
 
