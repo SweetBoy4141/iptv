@@ -466,7 +466,8 @@ https://freshlive.in/gosansaar/gosansaar/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Swastik Tv.jpg", Swastik Tv
 https://server.playontv.in/swastiktv/index.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Travel Club Tv.jpg", Travel Club Tv
+https://network24.live:4433/Travelclub/index.m3u8
 
 
 NEWS
