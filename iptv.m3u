@@ -465,9 +465,10 @@ https://freshlive.in/atmavanitv/atmavanitv/index.m3u8
 https://freshlive.in/gosansaar/gosansaar/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Swastik Tv.jpg", Swastik Tv
 https://server.playontv.in/swastiktv/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Sarav Dharan Sangam.jpg", Sarav Dharan Sangam
+https://95eryw7zdwn4-hls-live.wmncdn.net/sarvdharamsangam/tv.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Travel Club Tv.jpg", Travel Club Tv
-https://network24.live:4433/Travelclub/index.m3u8
+
 
 
 NEWS
@@ -532,13 +533,16 @@ https://thejbtcdn.vidgyor.com/thejbt-origin/liveabr/thejbt-origin/live_720p/chun
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Sansadtvhd/default/sansadtvhd-audio_208482_und=208000-video=2137600.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Sadhna Plus News.jpg", Sadhna Plus News
 https://6n3yow8pl9ok-hls-live.5centscdn.com/sadhananewstv/live.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Sarav Dharan Sangam.jpg", Sarav Dharan Sangam
-https://95eryw7zdwn4-hls-live.wmncdn.net/sarvdharamsangam/tv.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Nation News.jpg", Nation News
+https://server.playontv.in/nationnews/index.m3u8
+
 
 
 SPORTS
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/DD Sports.jpg", DD Sports
 http://103.175.73.12:8080/live/64/64_0.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Travel Club Tv.jpg", Travel Club Tv
+https://network24.live:4433/Travelclub/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Digital Fashion.jpg", Digital Fashion 
