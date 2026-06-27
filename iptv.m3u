@@ -584,5 +584,6 @@ https://jmp2.uk/stvp-INBD4700016S7
 http://103.175.73.12:8080/live/241/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Public Music.jpg", Public Music
 http://103.175.73.12:8080/live/240/master.m3u8
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/sri_shyam_tv.jpg",SRI SHYAM TV
+https://cloudcdn.in/live/shreeshyamtv/index.m3u8
 
