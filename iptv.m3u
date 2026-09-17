@@ -1,6 +1,6 @@
 #EXTM3U 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/sri_shyam_tv.jpg",SRI SHYAM TV
-https://cloudcdn.in/live/shreeshyamtv/index.m3u8
+https://cloudcdn.in/shreeshyamtv/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/7x Punjabi Tv.jpg",7X PUNJABI TV
 https://stream.e2is.in/hls/7xMusic.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/desi_tashan.jpg",DESI TASHAN
