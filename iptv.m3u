@@ -108,18 +108,11 @@ https://d2lk5u59tns74c.cloudfront.net/out/v1/f913cf893c594f73b114216e74a2efbc/in
 https://mcncdndigital.com/balleballetv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Ghant Punjabi.jpg", Ghant Punjabi
 https://amg00223-unisys-amg00223c3-lg-in-2050.playouts.now.amagi.tv/playlist/amg00223-sevencolorsbroadcastingprivatelimited-ghaintpunjab-lgin/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Punjabi_Hits.jpg", Punjabi Hits
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/punjabi-hits/996f61d3-a38e-4893-8e0b-2643677434c2/0.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Punjabi Beats 017.jpg", Punjabi Beats
-http://146.59.253.52:8080/punjabihitshd/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/NATIONAL TIMES.jpg", NATIONAL TIMES
-https://cdn2.in/PPNationalTimehls/live.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Only Music 021.jpg", Only Music
 https://livestream.unlimitedcdn.com/onlymusic/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/GLOBLE DESI.jpg",GLOBEL DESI
 https://live.ottlive.co.in/globaldesi/globaldesi/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Saga Music.jpg", Saga Music
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 alex/8875 Safari/537.36
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Visin Punjab Music 019.jpg", Visin Punjab Music
 http://a-edge.bliscdn.com/Visionpunjabmusic/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/PURE PUNJABI.jpg",PURE PUNJABI
@@ -132,29 +125,17 @@ https://jmp2.uk/stvp-IN38000050P
 https://jmp2.uk/stvp-INBC2800013L6
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/9X Jakas.jpg",9X Jhakaas
 https://amg01281-amg01281c1-amgplt0173.playout.now3.amagi.tv/playlist/amg01281-amg01281c1-amgplt0173/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Joo_Music.jpg", Joo Music
-https://livecdn.live247stream.com/joomusic/tv/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Mh-one.jpg", Mh1
-http://103.175.73.12:8080/live/353/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/SANJHA TV.jpg",SANJHA TV
 http://livestream.unlimitedcdn.com/sanjhatv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/D5 Punjabi.jpg", D5 Punjabi
 https://d5.tv360.ca:3453/live/cd5live.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Haryana Beats.jpg", Haryana Beats
-https://legitpro.co.in/haryanabeat/haryanabeat/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/SagaMusic/saga_music_logo_resized_black_400x200.png" group-title="Music",Saga-Music
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 alex/8875 Safari/537.36
 https://amg00223-unisys-amg00223c5-lg-in-2048.playouts.now.amagi.tv/playlist/amg00223-sevencolorsbroadcastingprivatelimited-sagamusic-lgin/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Saga Haryanvi.jpg", Saga Haryanvi
 https://amg00223-unisys-amg00223c4-lg-in-2049.playouts.now.amagi.tv/playlist/amg00223-sevencolorsbroadcastingprivatelimited-sagamusicharyanvi-lgin/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Mh 1 News.jpg", Mh 1 News
-https://mhlive.paramountinfosystem.com/mhonetest/d0dbe915091d400bd8ee7f27f0791303.sdp/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Living India News.jpg", Living India News
-https://livelegitpro.in/livingindia/livingindia/tracks-v1/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Time Tv 009.jpg",Time tv
-https://chardikalagurbanitv.gigabitcdn.net/in-chardikala/chardikala-timetv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/DD Bharti.jpg",DD Bharti
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Ddbharti/default/ddbharti-audio_208482_und=208000-video=2137600.m3u8
+https://chardikalagurbanitv.gigabitcdn.net/in-chardikala/chardikala-timetv/tracks-v1a1/mono.m3u
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Hamdarad Tv 023.jpg", Hamdarad Tv
 http://tv.hamdardtv.com/hamdard/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/PTN 24 025.jpg", Ptn 24 
@@ -169,16 +150,12 @@ https://mcncdndigital.com/worldpunjabitv/tracks-v1/index.fmp4.m3u8
 http://primeasia.mine.nu/Patv_Ind_FHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Apna Punjab 026.jpg", Apna Punjab Tv
 https://plus.gigabitcdn.net/live-stream/apna-punjab-H3sE/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Tv Punjab.jpg",Tv Punjab
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/tv-punjab/bc3d9765-7bb5-45fd-b7da-e29f81b41e31/0.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Rangla Punjab.jpg", Rangla Punjab
 http://playout.rptv.online/ranglapunjab/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Live Kabaddi 024.jpg", Kabaddi Live
 http://146.59.253.52:8080/Livekabaddi/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/5aab Tv.jpg",5aab tv
 http://158.69.124.9:1935/5aabtv/5aabtv/chunklist_w642807911.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/WINDOW TV .jpg",Window Punjab Tv
-http://cdn12.henico.net:8080/live/jbani/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Rpd Tv.jpg",Rpd Tv
 http://stream.rpdc.online/rpdcpunjabi/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Guntas Radi & Tv.jpg",Guntaas Radi & Tv
@@ -186,14 +163,10 @@ http://cdn12.henico.net:8080/live/guntaas/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Darbar Sahib Live 013.jpg", Darbar Sahib Live
 http://146.59.253.52:8080/sgpclive/video.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Ptc Simran.jpg", Ptc Simran
-http://103.175.73.12:8080/live/183/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Namdhari tv.jpg",Namdhari Tv
 https://namdhari.tv/live/sbs1.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Dukh Niwaran Sahib.jpg", Dukh Niwaran Sahib Ludhiana 
 http://akalmultimedia.net:1935/gdnslive/gdns-live/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Bbs Channel.jpg",Bbs Channel
-http://taksaltv.ddns.net/damdamihls/taksal.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Ratwara Sahib Live 031.jpg", Gurdwara Ratwara Sahib 
 https://live.wmncdn.net/gurudwarasahib/f08a2f48b696fdfb759e62f7be8a0938.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/FATEH_TV.jpg", Fateh Tv
@@ -217,27 +190,8 @@ https://cdn-globecast.akamaized.net/live/eds/akaal_tv/hls1_smart_akaal/akaal_tv-
 KIDS
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Gubbare 029.jpg", Gubbare
-https://epiconvh.akamaized.net/live/gubbare/master_1080.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Kids Tv 033.jpg", Kids Tv Channel
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kids-tv-india-nursery-rhymes-and-baby-songs/6474d05b-bbad-4c54-b02d-fc6145109d9e/2.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Toonz kids.jpg",Toonz kids tv
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/toonzkids/a42298e5-a07d-43f0-9d19-768539fa2d3d/2.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Kids Tv India.jpg",Kids Tv India
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Wow Kids.jpg", Wow Kids 
-https://live20.bozztv.com/giatvplayout7/giatv-209622/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Kids Tv India.jpg", Kids Tv India
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kids-tv-india-nursery-rhymes-and-baby-songs/bf5a4742-7214-4f66-9bf8-307fb0a11a6e/2.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Kido Matix.jpg", Kido Matix
-https://cc-le0kohm4qt3mk.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-le0kohm4qt3mk/e7558601-4f06-4bf7-873f-fabf2c547314/1.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Power Kids.jpg", Power Kids
-https://cc-4bhi5osabejc9.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/ae59f061-72a1-4c41-a501-369979e859d3/1.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Doraemon.jpg", Doraemon
-https://live20.bozztv.com/giatvplayout7/giatv-209902/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Motu Patlu.jpg", Motu Patlu
-https://live20.bozztv.com/giatvplayout7/giatv-209622/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Mr Bean Animated.jpg", Mr Bean Animated
-https://amg00627-amg00627c23-samsung-th-5282.playouts.now.amagi.tv/720p-vtt-ar/index.m3u8
+
+
 
 
 MOVIE CHANNEL
@@ -248,49 +202,17 @@ MOVIE CHANNEL
 https://jmp2.uk/stvp-IN460001373
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/NH Bolly Flix.jpg", NH Bolly Flix
 https://jmp2.uk/stvp-IN46000140Q
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Big Magic.jpg",Big Magic
-http://103.175.73.12:8080/live/13/13_0.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Mh1.jpg", NO SIGNAL
-http://103.175.73.12:8080/live/353/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Manoranjan Grand 012.jpg", Manoranjan Grand
-https://cdn-1.pishow.tv/live/1011/1011_1.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/.jpg",NO SIGNAL
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/6.jpg", NO SIGNAL
-https://dai.google.com/linear/hls/event/yvQpXDAeRMGU25KTu--V6Q/master.m3u8
 #EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zhornights.png" group-title="Entertainment",Zee Horror Nights (1080p)
 https://amg00862-amg00862c7-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c7-amgplt0173/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/7.jpg",Bollywood Hd
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Shemaroo Bollywood 012.jpg", Shemaroo Bollywood
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/shemaroo-bollywood/b76c4ad2-cc0a-43e3-888f-f3e322cfa56f/0.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/YYZ TV.jpg",YYZ TV
 http://cdn12.henico.net:8080/live/sursangam/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/ManoranjanMovies.jpg", Manoranjan Movies
-https://cdn-2.pishow.tv/live/228/228_1.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Z Cine Classic.jpg", Z Cine Classic
 https://amg00862-amg00862c8-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c8-amgplt0173/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Z South Flix.jpg", Z South Flix
 https://amg00862-amg00862c9-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c9-amgplt0173/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Maha Movie.jpg", Maha Movie
-http://103.175.73.12:8080/live/48/48_0.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/B4U_Kadak.jpg", B4U Kadak
-https://cdnb4u.wiseplayout.com/B4U_Kadak/HD720/HD720.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Wow Cinema One 012.jpg", TEST-3
-https://cdn-2.pishow.tv/live/231/231_1.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/B4u Movies.jpg", B4u Movies
-https://cdn-2.pishow.tv/live/419/419_1.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Movie-Plus 012.jpg", Movie-Plus
-https://cdn-2.pishow.tv/live/1155/1155_2.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/ALL TIME MOVIES.jpg", All Time Movies
-http://103.175.73.12:8080/live/54/master.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Zee Anmol Cinema 2.jpg", Zee Anmol Cinema 2
-http://103.175.73.12:8080/live/257/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Goldmines.jpg", Goldmines
 https://cdn-2.pishow.tv/live/1459/1459_1.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Goldmines Movies.jpg", Goldmines Movies
