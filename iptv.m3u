@@ -18,10 +18,7 @@ http://sanatan.valamtv.in/hls/shree/bhattji.m3u8
 http://dayro.valamtv.in/hls/shree/bhattji.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/83399091-2715-4d98-9b32-91bd9670a8ea.jpg",Steelbird Music
 https://cdn2.in/SteelbirdMusicTVhls/live.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Indoo z tv 004.jpg",Indooz tv
-http://cdn2.in/IndozeTvhls/live.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/4.jpg",Yeshuaa tv
-http://cdn2.in/YeshuaaTVhls/live.m3u8
+
 
 
 # ----- Entertainment: Hindi (48) -----
