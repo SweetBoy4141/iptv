@@ -290,6 +290,8 @@ https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453
 #EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/7e58f6fd-62bc-49bc-9ec6-2766ed521743/manifest.m3u8?hdnts=st%3D1791560025~exp%3D1791581625~acl%3D%21%2A%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2F7e58f6fd-62bc-49bc-9ec6-2766ed521743%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_52.159.245.150_yuppfast_2_channel_51_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_52.159.245.150_yuppfast_2_channel_51_-1~hmac%3D31762273fb0e80bee57871d7bd392c3a07c32d143b719afa748c6bb52039ce00
 
+#EXTINF:-1 tvg-id="Zing.in@SD",Zing! (576p)
+http://103.72.101.252:8080/live/585.m3u8
 
 MOVIE CHANNEL
 
