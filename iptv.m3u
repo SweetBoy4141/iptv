@@ -352,7 +352,8 @@ https://nh-runntv-blygld.cdn.runn.tv/nhstdz/stream/blygld/manifest/2.m3u8
 http://103.156.169.82:8000/BOLLYWOOD.ACTION/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Action Hollywood Movies.jpg",Action Hollywood Movies
 https://amg01076-lightningintern-actionhollywood-samsungau-rs69y.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungau/playlist.m3u8
-
+#EXTINF:-1 tvg-id="IN800016BA" tvg-name="JOJO TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN800016BA_20261006T042355SQUARE.png",JOJO TV
+https://jmp2.uk/stvp-IN800016BA
 
 
 # ----- Bhojpuri: Movies (5) -----
