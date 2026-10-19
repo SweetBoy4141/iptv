@@ -296,8 +296,8 @@ http://103.72.101.252:8080/live/585.m3u8
 MOVIE CHANNEL
 
 
-
-
+#EXTINF:-1 tvg-name="Wild Flix Hindi" tvg-logo="https://i.postimg.cc/tT3gRBrs/20260917-183147.png" group-title="Discovery 🌍",Wild Flix Hindi
+https://cc-qgrxgp51645lw.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-qgrxgp51645lw/IQJW/WBD/WildFlix_IN/WildFlix_IN.m3u8
 #EXTINF:-1 tvg-id="353f1b20-3f65-4477-8251-6c3c58a3a12e" tvg-name="Dhinchaak" tvg-logo="https://s3.aynaott.com/storage/f4edcca7247bbb4a263a51d7ebb82282" group-title="Hindi",Dhinchaak
 https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8?e=1784102597&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=18f202477e23fba0f1d6d5e94ac5c4f3
 #EXTINF:-1 tvg-id="IN460001727" tvg-name="Dishoom Films" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN460001727_20260805T003945SQUARE.png",Dishoom Films
