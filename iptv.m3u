@@ -22,6 +22,12 @@ https://cdn2.in/SteelbirdMusicTVhls/live.m3u8
 
 
 # ----- Entertainment: Hindi (48) -----
+
+
+#EXTINF:-1 tvg-id="SonyKALHindi.us" tvg-name="Sony KAL" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/sony-kal.png" tvg-chno="681" channel-id="SonyKALHindi.us" group-title="Indian Entertainment",Sony KAL
+https://wurlsonypicturestv.global.transmit.live/hls/68deeb1c0238cda82df543dd/v1/spt_sonykal_1/lg_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="SonyPal.in@SD" tvg-name="Sony PAL" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/sony-pal.png" tvg-chno="1089" channel-id="SonyPal.in@SD" group-title="Indian Entertainment",Sony PAL
+http://live.balajibroadband.com:3500/live/474.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Z DIL SE.jpg", Z DIL SE 
 https://amg00862-amg00862c6-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c6-amgplt0173/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Runn Tv.jpg",Runn tv
