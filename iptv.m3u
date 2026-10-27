@@ -298,9 +298,21 @@ https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/7e
 
 #EXTINF:-1 tvg-id="Zing.in@SD",Zing! (576p)
 http://103.72.101.252:8080/live/585.m3u8
+#EXTINF:-1 tvg-id="108" tvg-name="Dice Media" tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/DICMED/TV/thumbnail/3a8ec165-5a9c-477a-8502-34723f8f1713.png" group-title="Entertainment",Dice Media
+https://dicemedia.cdn.runn.tv/pocketaces/stream/dicmed/playlist.m3u8
+
+
 
 MOVIE CHANNEL
 
+
+
+#EXTINF:-1 tvg-id="123" tvg-name="Eros Universe Bollywood Cinema" tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/BLYWCM/TV/thumbnail/9b6d7014-65cb-406e-be5a-0e342211b100.png" group-title="Movies",Eros Universe Bollywood Cinema
+https://eros-blywdcnm.cdn.runn.tv/eros/stream/blywcm/playlist.m3u8
+#EXTINF:-1 tvg-id="29" tvg-name="Superfine Films" tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/P_SUPJIO/TV/thumbnail/499fb779-2877-4a34-8512-b018fec98624.png" group-title="Movies",Superfine Films
+https://supflm.cdn.runn.tv/runntv/stream/p_supjio/playlist.m3u8
+#EXTINF:-1 tvg-id="124" tvg-name="Eros Universe Entertainment" tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/ERSENT/TV/thumbnail/f4e2053c-944b-4da0-8f0d-3d0c624b5516.png" group-title="Movies",Eros Universe Entertainment
+https://eros-entrtnmnt.cdn.runn.tv/eros/stream/ersent/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aRNBvTU.png" group-title="Undefined",Superhitz (576p)
 https://103.151.60.162:2122/play/a02f/index.m3u8?hls
 #EXTINF:-1 tvg-name="Wild Flix Hindi" tvg-logo="https://i.postimg.cc/tT3gRBrs/20260917-183147.png" group-title="Discovery 🌍",Wild Flix Hindi
